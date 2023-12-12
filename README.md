@@ -1,4 +1,4 @@
-# Python curd operation in Gui
+# Python CRUD operation in Gui
 
   ![Python curd operation](/photos/1.png)
   
